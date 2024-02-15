@@ -17,7 +17,7 @@ Note: Now turn your device hotspot before using it
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
 </p>
- Our Website :-www.hackersking.in
+ Our Website :-www.SPY24.io
 <h4>Note :- If victim open this url in chrome or android inbuilt browser then it can access victim camera by allowing permissions and send snap to you.
 </h4>
 
